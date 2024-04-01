@@ -1,9 +1,2 @@
-# how to run your own app:
-## set up nest 
-## clone app
-## set up slack app
-## set up bag app
-## set up openai key
-## set up ngrok or https
-## set up slack channels
-## edit and test the prompts
+# bagkery
+This is a pathfinder project for interfacing LLMs with Bag, the RPG in Hack Club's Slack. It's served its purpose and further development continues at [rivques/RPGPT](https://github.com/rivques/RPGPT).
